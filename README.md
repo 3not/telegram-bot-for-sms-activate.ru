@@ -1,2 +1,2 @@
-# telegram-bot-for-sms-activate.ru
-Telegram bot for sms-activate.ru service, which help you easy to get activation codes for any sites or applications from online mobile numbers. 
+# Telegram Bot для SMS-Activate.ru
+Telegram bot для приема смс-кодов с различных сервисов на виртуальный мобильный номер. Подробно об API сервиса (http://sms-activate.ru/index.php?act=api). 
